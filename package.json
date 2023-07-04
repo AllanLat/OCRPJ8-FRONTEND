@@ -1,0 +1,24 @@
+{
+  "name": "porjet-portefolio",
+  "version": "1.0.0",
+  "description": "Portefolio Allan Latruffe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanLat/OCRPJ8-FRONTEND.git"
+  },
+  "author": "Allan Latruffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanLat/OCRPJ8-FRONTEND/issues"
+  },
+  "homepage": "https://github.com/AllanLat/OCRPJ8-FRONTEND#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  }
+}
