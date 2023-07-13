@@ -23,3 +23,9 @@ div, h1, h2, h3, h4, h5, h6, p, a, ul, li {
   box-sizing: border-box;
 }
 
+   /* src/index.css or src/index.scss */
+   @import 'tailwindcss/base';
+   @import 'tailwindcss/components';
+   @import 'tailwindcss/utilities';
+
+
