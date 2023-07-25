@@ -9,11 +9,7 @@ export default function Header() {
     return (
         <header>
             <Menu />
-            
-                <HeaderContent />
-     
-
-
+            <HeaderContent />
         </header>
     );
 }

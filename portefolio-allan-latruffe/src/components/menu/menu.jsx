@@ -9,7 +9,7 @@ export default function Menu() {
   return (
     <nav className="navbar" role="navigation" aria-label="main navigation">
   <div className="navbar-brand">
-    <a className="navbar-item" href="#">
+    <a className="navbar-item" href="/">
       <h1 className="title is-size-5">Allan Latruffe</h1>
     </a>
 
@@ -23,19 +23,19 @@ export default function Menu() {
 
   <div id="navbarBasicExample" className={`navbar-menu ${isPopupOpen ? "is-active" : ""}`}>
     <div className="navbar-end">
-      <a className="navbar-item">
+      <a className="navbar-item" href="/">
         Home
       </a>
 
-      <a className="navbar-item">
+      <a className="navbar-item" href="/#about">
         About
       </a>
 
-      <a className="navbar-item">
+      <a className="navbar-item" href="/#realisations">
         Réalisation
       </a>
 
-      <a className="navbar-item">
+      <a className="navbar-item" href="/contact">
         Contact
       </a>
     </div>

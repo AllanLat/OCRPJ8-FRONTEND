@@ -1,0 +1,13 @@
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+@media (max-width: 768px) { /* Taille d'écran correspondant à la version mobile */
+    .cards {
+      grid-template-columns: repeat(1, 1fr); /* Une seule colonne en version mobile */
+    }
+
+
+  }

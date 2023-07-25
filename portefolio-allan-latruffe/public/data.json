@@ -1,0 +1,59 @@
+{
+    "realisations": [
+      {
+        "description": "Site Vitrine",
+        "problematic": "Gestion complexe des différentes catégories de dépenses",
+        "solution": "Utilisation d'une structure de données optimisée pour les catégories",
+        "skills": ["React Native", "Redux", "Firebase"],
+        "url": "https://awen-developpement.fr",
+        "company": "ABC Company",
+        "date": "08-2022"
+      },
+      {
+        "description": "Site Catalogue de produits",
+        "problematic": "Intégration et synchronisation des données avec des fournisseurs externes",
+        "solution": "Utilisation d'APIs et d'outils de synchronisation des données",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "url": "https://terkanconceptions.com",
+        "company": "XYZ Travel",
+        "date": "06-2022"
+      },
+      {
+        "description": "Site web Vitrine + blog",
+        "problematic": "Traitement en temps réel des mises à jour de stock",
+        "solution": "Utilisation de websockets pour une communication en temps réel",
+        "skills": ["JavaScript", "React", "Node.js", "MySQL"],
+        "url": "https://pelerin-accessibilite.fr",
+        "company": "DEF Corporation",
+        "date": "05-2023"
+      },
+      {
+        "description": "Site Vitrine",
+        "problematic": "Gestion complexe des différentes catégories de dépenses",
+        "solution": "Utilisation d'une structure de données optimisée pour les catégories",
+        "skills": ["React Native", "Redux", "Firebase"],
+        "url": "https://shizenschool.fr",
+        "company": "ABC Company",
+        "date": "08-2022"
+      },
+      {
+        "description": "Site Catalogue de produits",
+        "problematic": "Intégration et synchronisation des données avec des fournisseurs externes",
+        "solution": "Utilisation d'APIs et d'outils de synchronisation des données",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "url": "https://reverse-wear.com",
+        "company": "XYZ Travel",
+        "date": "06-2022"
+      },
+      {
+        "description": "Site web Vitrine + blog",
+        "problematic": "Traitement en temps réel des mises à jour de stock",
+        "solution": "Utilisation de websockets pour une communication en temps réel",
+        "skills": ["JavaScript", "React", "Node.js", "MySQL"],
+        "url": "https://cbrsolutions.fr",
+        "company": "DEF Corporation",
+        "date": "05-2023"
+      }
+    ]
+  }
+  
