@@ -1,8 +1,8 @@
 import React from "react";
 
-import Hero from "../../components/hero/hero";
-import Cards from "../../components/cards/cards";
-import Carousel from "../../components/slider/slider";
+import Hero from "../../components/hero/hero.jsx";
+import Cards from "../../components/cards/cards.jsx";
+import Carousel from "../../components/slider/slider.jsx";
 
 export default function Home() {
     return (
