@@ -8,7 +8,7 @@ import Contact from "../../pages/contact/contact";
 
 export default function Chemins() {
     return (
-        <Router basename="/OCRPJ8-FRONTEND">
+        <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/contact" element={<Contact />} />
