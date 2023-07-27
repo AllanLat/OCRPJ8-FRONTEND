@@ -33,7 +33,7 @@ const MonComposant = () => {
             <div className="column is-two-fifths">
               <div className="has-text-right">
                 <figure className="image is-128x128 is-pulled-right">
-                  <img src="../img/logo.jpeg" alt="Allan Latruffe profils" className="is-rounded" />
+                  <img src="img/logo.jpeg" alt="Allan Latruffe profils" className="is-rounded" />
                 </figure>
               </div>
             </div>

@@ -16,6 +16,9 @@ export default function Home() {
                 &nbsp;
                 <p className="has-text-light">
                 Polyvalent, je suis à l'aise aussi bien en front-end qu'en back-end. J'ai acquis de solides compétences techniques, mais aussi des soft skills essentielles, telles que la communication et la gestion de projet. Toujours avide d'apprendre et de relever de nouveaux défis, je suis à la recherche de projets stimulants où je pourrai mettre à profit mon expertise pour créer des solutions web innovantes.
+                 <br />
+                 <br />
+                 Découvrez l'ensemble de mes compétences et diplômes en me contactant par email ou en consultant mon profil LinkedIn. 
                 </p>
 
                 </Hero>

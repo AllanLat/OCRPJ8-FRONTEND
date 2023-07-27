@@ -30,7 +30,7 @@ export default function Footer() {
             <div className="columns">
                 <div className="column is-centered">
                     <figure className="image is-128x128 is-centered">
-                        <img src="../img/logo-footer.gif" alt="Allan Latruffe developper" className="is-rounded"/>
+                        <img src="img/logo-footer.gif" alt="Allan Latruffe developper" className="is-rounded"/>
                     </figure>
                 </div>
                 <div className="column">
