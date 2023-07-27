@@ -15,7 +15,7 @@ export default function Listooter({ArrayLink, titre}) {
             <ul>
             {linkss.map((linkk, index) => (
                     <li key={index}>
-                        <a href={linkk.href}>{linkk.text}</a>
+                        <a href={linkk.href} target="_blank">{linkk.text}</a>
                     </li>
                 ))}
             </ul>

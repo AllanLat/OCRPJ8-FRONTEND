@@ -1,0 +1,59 @@
+{
+    "realisations": [
+      {
+        "description": "Site Vitrine",
+        "problematic": "Augmenter la visibilité de l'entreprise",
+        "solution": "Création site Wordpress et adaptation de plugin PHP ",
+        "skills": ["Wordpress", "PHP", "JS"],
+        "url": "https://awen-developpement.fr",
+        "company": "Awen developpement",
+        "date": "08-2022"
+      },
+      {
+        "description": "Site Catalogue de produits",
+        "problematic": "affichée un catalogue produit et de nombreuse réalisations",
+        "solution": "Création via un CMS et adaption d'un thème graphique pour l'entreprise",
+        "skills": ["Wordpress", "Elementor", "Google Analitycs", "PHP"],
+        "url": "https://terkanconceptions.com",
+        "company": "TERKAN CONCEPTIONS",
+        "date": "06-2022"
+      },
+      {
+        "description": "Site Vitrine",
+        "problematic": "Augmenter la visibilité de l'entreprise et servire de support pour les commerciaux",
+        "solution": "Création Thème Wordpress et adaptation du CMS pour afficher des réalisations, modifications de plugins",
+        "skills": ["JavaScript", "PHP", "Wordpress", "HTML", "CSS", "JS"],
+        "url": "https://pelerin-accessibilite.fr",
+        "company": "PELERIN ACCESSIBILITE",
+        "date": "05-2023"
+      },
+      {
+        "description": "Stratégie d'enchère Google Adwords",
+        "problematic": "Augmenter la conversion sur le site vis à vis du nombre de visite",
+        "solution": "Crétion d'une campagne SEA avec Google Adwords",
+        "skills": ["Google Ads", "google site kit", "HTML"],
+        "url": "https://shizenschool.fr",
+        "company": "SHIZEN SCHOOL",
+        "date": "08-2022"
+      },
+      {
+        "description": "Site de vente E-commerce",
+        "problematic": "vendre des vêtements et accessoires à l'international",
+        "solution": "Création d'un thême Wordpres et adaptation pour l'utilisation de Woocommerce",
+        "skills": ["Woocommerce", "SEO", "Wordpres"],
+        "url": "https://reverse-wear.com",
+        "company": "REVERSE WEAR",
+        "date": "12-2021"
+      },
+      {
+        "description": "Site vitrine",
+        "problematic": "présence en ligne de l'entreprise",
+        "solution": "thème Wordpress et adaptation du CMS",
+        "skills": ["Wordpress", "SiteKite", "SEO"],
+        "url": "https://cbrsolutions.fr",
+        "company": "CBR SOLUTIONS",
+        "date": "05-2023"
+      }
+    ]
+  }
+  
