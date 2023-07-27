@@ -16,7 +16,7 @@ export default function Footer() {
 
     const Colonne2 = [
         { href: 'https://github.com/AllanLat', text: 'Github' },
-        { href: 'https://www.linkedin.com/in/allan-latruffe/', text: 'Linkedin' },
+        { href: 'https://www.linkedin.com/in/allan-latruffe', text: 'Linkedin' },
         { href: 'https://awen-developpement.fr', text: 'Awen Developpement' },
         { href: 'mailto:allan.latruffe@gmail.com', text: 'Mail' }
     ];

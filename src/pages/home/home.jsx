@@ -3,6 +3,8 @@ import React from "react";
 import Hero from "../../components/hero/hero.jsx";
 import Cards from "../../components/cards/cards.jsx";
 import Carousel from "../../components/slider/slider.jsx";
+import Modal from "../../components/modal/modal.jsx";
+import BtnModal from "../../components/btnModal/btnModal.jsx";
 
 export default function Home() {
     return (
@@ -32,7 +34,10 @@ export default function Home() {
                     <p className="has-text-centered mb-5 has-text-light"> Si vous avez des questions, des opportunités de collaboration ou simplement envie de discuter, n'hésitez pas à me contacter. Je serais ravi d'échanger avec vous et d'en apprendre davantage sur vos projets.</p>
                     <div className="buttons is-centered">
                         <a className="button is-primary has-text-light" href="http://linkedin.com/in/allan-latruffe">Linkedin</a>
-                        <a className="button is-secondary" href="/contact">Contact</a>
+                        <BtnModal text="Contact" idMymodal="contact"/>
+                        <Modal idMymodal="contact">
+                            <p>Test</p>
+                        </Modal>
                     </div>
 
                 </Hero>

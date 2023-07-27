@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
 import "./menu.css";
 
@@ -36,11 +36,10 @@ export default function Menu() {
         Réalisation
       </a>
 
-      {/* <a className="navbar-item" href="/contact">
+       <a className="navbar-item" href="/contact">
         Contact
-      </a> */}
+      </a> 
 
-      <Link to={"/contact"} className="navbar-item"> Contact </Link>
     </div>
 
       
