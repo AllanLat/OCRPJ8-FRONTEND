@@ -36,10 +36,10 @@ const ContactForm = () => {
 
   return (
     <div id="formContact" className="container mb-5 pb-5">
-    <h1 className="title is-size-5">Contact</h1>
+    <h1 className="title is-size-5 has-text-light">Contact</h1>
     <form onSubmit={handleSubmit}>
       <div className="field">
-        <label className="label">Nom :</label>
+        <label className="label  has-text-light">Nom :</label>
         <div className="control">
           <input
             className="input"
@@ -50,7 +50,7 @@ const ContactForm = () => {
         </div>
       </div>
       <div className="field">
-        <label className="label">Email :</label>
+        <label className="label has-text-light">Email :</label>
         <div className="control">
           <input
             className="input"
@@ -60,11 +60,11 @@ const ContactForm = () => {
           />
         </div>
       </div>
-      <div className="field">
-        <label className="label">Message :</label>
+      <div className="field has-text-light">
+        <label className="label has-text-light">Message :</label>
         <div className="control">
           <textarea
-            className="textarea"
+            className="textarea "
             value={message}
             onChange={(e) => setMessage(e.target.value)}
           ></textarea>
