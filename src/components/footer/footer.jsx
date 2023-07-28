@@ -8,10 +8,10 @@ import Listooter from "../list-footer/list-footer";
 export default function Footer() {
 
     const Colonne1 = [
-        { href: '/', text: 'Home' },
-        { href: '#about', text: 'A propos' },
-        { href: '#realisations', text: 'Réalisation' },
-        { href: '#contact', text: 'Contact' },
+        { href: '/OCRPJ8-FRONTEND/', text: 'Home' },
+        { href: '/OCRPJ8-FRONTEND/#about', text: 'A propos' },
+        { href: '/OCRPJ8-FRONTEND/#realisations', text: 'Réalisation' },
+        { href: '/OCRPJ8-FRONTEND/#contact', text: 'Contact' },
       ];
 
     const Colonne2 = [

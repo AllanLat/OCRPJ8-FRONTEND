@@ -24,19 +24,19 @@ export default function Menu() {
 
   <div id="navbarBasicExample" className={`navbar-menu ${isPopupOpen ? "is-active" : ""}`}>
     <div className="navbar-end">
-      <a className="navbar-item" href="/">
+      <a className="navbar-item" href="/OCRPJ8-FRONTEND/">
         Home
       </a>
 
-      <a className="navbar-item" href="/#about">
+      <a className="navbar-item" href="/OCRPJ8-FRONTEND/#about">
         About
       </a>
 
-      <a className="navbar-item" href="/#realisations">
+      <a className="navbar-item" href="/OCRPJ8-FRONTEND/#realisations">
         Réalisation
       </a>
 
-       <a className="navbar-item" href="/#contact">
+       <a className="navbar-item" href="/OCRPJ8-FRONTEND/#contact">
         Contact
       </a> 
 
