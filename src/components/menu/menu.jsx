@@ -36,7 +36,7 @@ export default function Menu() {
         Réalisation
       </a>
 
-       <a className="navbar-item" href="/contact">
+       <a className="navbar-item" href="/#contact">
         Contact
       </a> 
 

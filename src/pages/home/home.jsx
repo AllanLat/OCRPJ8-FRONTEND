@@ -29,7 +29,8 @@ export default function Home() {
                 <Carousel />
 
                 <Hero>
-                    <h3 className="title is-is-family-sans-serif has-text-centered has-text-light">Prenons Contact</h3>
+
+                    <h3 id="contact" className="title is-is-family-sans-serif has-text-centered has-text-light">Prenons Contact</h3>
                     <p className="has-text-centered mb-5 has-text-light"> Si vous avez des questions, des opportunités de collaboration ou simplement envie de discuter, n'hésitez pas à me contacter. Je serais ravi d'échanger avec vous et d'en apprendre davantage sur vos projets.</p>
 
                     <ContactForm />
